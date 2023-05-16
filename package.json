@@ -1,5 +1,5 @@
 {
-  "name": "huggingface2textgenwebui",
+  "name": "hfcode2tgwebui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
